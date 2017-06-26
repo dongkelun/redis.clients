@@ -7,7 +7,7 @@ import org.junit.Before;
 
 import redis.clients.jedis.HostAndPort;
 import redis.clients.jedis.JedisCluster;
-
+//
 public class Test {
 	JedisCluster jc = null;
 	@Before
